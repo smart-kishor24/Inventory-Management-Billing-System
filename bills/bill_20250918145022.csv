@@ -1,0 +1,7 @@
+bill_id,datetime,product_id,name,unit_price,qty,line_total
+bill_20250918145022,2025-09-18 14:50:22,1,USB Cable,99.00,10,990.00
+bill_20250918145022,2025-09-18 14:50:22,21,Fitness Tracker,799.00,5,3995.00
+
+,,,SUBTOTAL,4985.00
+,,,DISCOUNT_0.0%,0.00
+,,,TOTAL,4985.00

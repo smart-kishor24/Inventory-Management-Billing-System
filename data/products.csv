@@ -1,0 +1,57 @@
+id,name,price,stock
+1,USB Cable,99.00,50
+2,Wireless Mouse,599.00,20
+3,Keyboard,799.00,15
+4,Monitor,1999.00,10
+5,Headphones,499.00,100
+6,Webcam,899.00,30
+7,External Hard Drive,3999.00,5
+8,Mousepad,199.00,60
+9,HDMI Cable,299.00,80
+10,Laptop Stand,799.00,25
+11,Bluetooth Speaker,999.00,40
+12,Printer,6999.00,3
+13,Office Chair,5999.00,8
+14,Desk Lamp,399.00,45
+15,Power Bank,699.00,60
+16,Screen Protector,149.00,90
+17,Cleaning Kit,249.00,55
+18,Stylus Pen,349.00,35
+19,VR Headset,2999.00,12
+20,Smart Watch,1499.00,1815
+21,Fitness Tracker,799.00,10
+22,Smart Scale,599.00,28
+23,E-reader,1199.00,14
+24,Tablet,2499.00,9
+25,Drawing Tablet,3499.00,6
+26,Graphics Card,7999.00,2
+27,CPU,4999.00,4
+28,RAM,1999.00,7
+29,SSD,2999.00,11
+30,Motherboard,3999.00,1
+31,PC Case,1299.00,16
+32,Power Supply,899.00,19
+33,Cooling Fan,349.00,23
+34,Thermal Paste,99.00,27
+35,Sound Card,699.00,31
+36,Network Card,499.00,34
+37,Wi-Fi Adapter,299.00,38
+38,Bluetooth Adapter,199.00,42
+39,USB Hub,399.00,46
+40,Card Reader,249.00,49
+41,DVD Drive,599.00,52
+42,Blu-ray Drive,799.00,56
+43,Projector,4999.00,59
+44,Scanner,2999.00,62
+45,Fax Machine,1999.00,65
+46,Label Maker,899.00,68
+47,Shredder,1499.00,71
+48,Binding Machine,2499.00,74
+49,Laminator,1199.00,77
+50,Paper Cutter,699.00,81
+51,Whiteboard,1799.00,84
+52,Cork Board,599.00,87
+53,Flip Chart,999.00,91
+54,Easel,799.00,94
+55,Projector Screen,1299.00,97
+56,pointer,1200.00,200

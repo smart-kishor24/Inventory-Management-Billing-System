@@ -1,0 +1,11 @@
+=== BILL ===
+Bill ID: bill_20250918153928
+DateTime: 2025-09-18 15:39:28
+
+PID    Name                            UnitPrice    Qty    LineTotal
+15     Power Bank                        ₹699.00     10    ₹6,990.00
+
+Subtotal: ₹6,990.00
+Discount (10.0%): ₹699.00
+Total: ₹6,291.00
+Thank you!

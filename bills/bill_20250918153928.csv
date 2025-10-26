@@ -1,0 +1,6 @@
+bill_id,datetime,product_id,name,unit_price,qty,line_total
+bill_20250918153928,2025-09-18 15:39:28,15,Power Bank,699.00,10,6990.00
+
+,,,SUBTOTAL,6990.00
+,,,DISCOUNT_10.0%,699.00
+,,,TOTAL,6291.00

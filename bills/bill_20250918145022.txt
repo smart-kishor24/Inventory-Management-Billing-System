@@ -1,0 +1,12 @@
+=== BILL ===
+Bill ID: bill_20250918145022
+DateTime: 2025-09-18 14:50:22
+
+PID    Name                            UnitPrice    Qty    LineTotal
+1      USB Cable                          ₹99.00     10      ₹990.00
+21     Fitness Tracker                   ₹799.00      5    ₹3,995.00
+
+Subtotal: ₹4,985.00
+Discount (0.0%): ₹0.00
+Total: ₹4,985.00
+Thank you!

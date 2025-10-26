@@ -1,0 +1,6 @@
+bill_id,datetime,product_id,name,unit_price,qty,line_total
+bill_20250918145700,2025-09-18 14:57:00,21,Fitness Tracker,799.00,60,47940.00
+
+,,,SUBTOTAL,47940.00
+,,,DISCOUNT_0.0%,0.00
+,,,TOTAL,47940.00
