@@ -1,0 +1,6 @@
+bill_id,datetime,product_id,name,unit_price,qty,line_total
+bill_20251122143518,2025-11-22 14:35:18,33,Cooling Fan,349.00,4,1396.00
+
+,,,SUBTOTAL,1396.00
+,,,DISCOUNT_0.0%,0.00
+,,,TOTAL,1396.00

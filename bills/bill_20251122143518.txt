@@ -1,0 +1,11 @@
+=== BILL ===
+Bill ID: bill_20251122143518
+DateTime: 2025-11-22 14:35:18
+
+PID    Name                            UnitPrice    Qty    LineTotal
+33     Cooling Fan                       ₹349.00      4    ₹1,396.00
+
+Subtotal: ₹1,396.00
+Discount (0.0%): ₹0.00
+Total: ₹1,396.00
+Thank you!
